@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="manager.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="tcp_client.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="inputcontroller.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="inputkeyboard.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="ranking.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="scene2d.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="boss.cpp">
+      <Filter>ソースファイル\GAME\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>ソースファイル\GAME\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_type1.cpp">
+      <Filter>ソースファイル\GAME\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_type3.cpp">
+      <Filter>ソースファイル\GAME\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="enemytype2.cpp">
+      <Filter>ソースファイル\GAME\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="laser.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="missile.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="option.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="shield.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソースファイル\GAME\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="number.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="life.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="energy_ui.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="powerui.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle_effect.cpp">
+      <Filter>ソースファイル\GAME\EFFECT</Filter>
+    </ClCompile>
+    <ClCompile Include="particle_effect.cpp">
+      <Filter>ソースファイル\GAME\EFFECT</Filter>
+    </ClCompile>
+    <ClCompile Include="explosion.cpp">
+      <Filter>ソースファイル\GAME\EFFECT</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="bg.cpp">
+      <Filter>ソースファイル\GAME\GIMMICK</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>ソースファイル\GAME\GIMMICK</Filter>
+    </ClCompile>
+    <ClCompile Include="stage.cpp">
+      <Filter>ソースファイル\GAME\GIMMICK</Filter>
+    </ClCompile>
+    <ClCompile Include="star.cpp">
+      <Filter>ソースファイル\GAME\GIMMICK</Filter>
+    </ClCompile>
+    <ClCompile Include="terrain.cpp">
+      <Filter>ソースファイル\GAME\GIMMICK</Filter>
+    </ClCompile>
+    <ClCompile Include="ranking_ui.cpp">
+      <Filter>ソースファイル\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="pause.cpp">
+      <Filter>ソースファイル\GAME\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="inputkeyboard.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="inputcontroller.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="ranking.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="tcp_client.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="scene2d.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="tutorial.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="bg.h">
+      <Filter>ヘッダファイル\GAME\GIMMICK</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="option.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="missile.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="shield.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="laser.h">
+      <Filter>ヘッダファイル\GAME\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>ヘッダファイル\GAME\GIMMICK</Filter>
+    </ClInclude>
+    <ClInclude Include="stage.h">
+      <Filter>ヘッダファイル\GAME\GIMMICK</Filter>
+    </ClInclude>
+    <ClInclude Include="terrain.h">
+      <Filter>ヘッダファイル\GAME\GIMMICK</Filter>
+    </ClInclude>
+    <ClInclude Include="life.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="number.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="powerui.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="star.h">
+      <Filter>ヘッダファイル\GAME\GIMMICK</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>ヘッダファイル\GAME\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="enemytype2.h">
+      <Filter>ヘッダファイル\GAME\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_type1.h">
+      <Filter>ヘッダファイル\GAME\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_type3.h">
+      <Filter>ヘッダファイル\GAME\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
+      <Filter>ヘッダファイル\GAME\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="energy_ui.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="explosion.h">
+      <Filter>ヘッダファイル\GAME\EFFECT</Filter>
+    </ClInclude>
+    <ClInclude Include="particle_effect.h">
+      <Filter>ヘッダファイル\GAME\EFFECT</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle_effect.h">
+      <Filter>ヘッダファイル\GAME\EFFECT</Filter>
+    </ClInclude>
+    <ClInclude Include="ranking_ui.h">
+      <Filter>ヘッダファイル\MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="pause.h">
+      <Filter>ヘッダファイル\GAME\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ソースファイル">
+      <UniqueIdentifier>{82cb9591-9635-4fed-969f-9c3a1f224b04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル">
+      <UniqueIdentifier>{4bdccc0e-c1e3-42d3-b6ad-901662896b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME">
+      <UniqueIdentifier>{98056554-70e0-48cb-8041-e7a1838f9d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME\ENEMY">
+      <UniqueIdentifier>{a954ae50-54c0-4f36-b688-6d41bc029bdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME\PLAYER">
+      <UniqueIdentifier>{ed979933-1a04-4132-86c0-81061879e380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME\UI">
+      <UniqueIdentifier>{ddab0ba4-f6ff-4d3b-b19f-cea4d555a8f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME\EFFECT">
+      <UniqueIdentifier>{d247ff8f-f037-4cb4-bcee-c4b0d8c334db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\GAME\GIMMICK">
+      <UniqueIdentifier>{72a77745-29bc-490a-ba1b-723148a6f147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME">
+      <UniqueIdentifier>{044ce57e-029c-48ca-bfcd-ad41f92486ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\MAIN">
+      <UniqueIdentifier>{d0f0acd7-9d70-4753-9f85-e1c35019ee57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\MAIN">
+      <UniqueIdentifier>{1e351685-311b-4a42-a741-718bc51d160b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME\GIMMICK">
+      <UniqueIdentifier>{d32fd67e-c337-434f-a3bf-454f7070a477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME\PLAYER">
+      <UniqueIdentifier>{9a88d888-ca4a-45d7-8419-9a8ed4d26dfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME\UI">
+      <UniqueIdentifier>{7771dadf-dec7-4a7d-a46a-94867b3a0bbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME\ENEMY">
+      <UniqueIdentifier>{807ba442-7caf-4590-a2d4-56b6ebd9cbe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダファイル\GAME\EFFECT">
+      <UniqueIdentifier>{b7ba0adb-80cf-49b0-9211-b877eca3553f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

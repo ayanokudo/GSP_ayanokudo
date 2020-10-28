@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\student\desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\student\desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+c:\users\student\desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+c:\users\student\desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+  touch_server.vcxproj -> C:\Users\student\Desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\Debug\touch_server.exe
+  touch_server.vcxproj -> C:\Users\student\Desktop\オンライン利用技術＆ゲームエンジン\12_touch_server\Debug\touch_server.pdb (Full PDB)

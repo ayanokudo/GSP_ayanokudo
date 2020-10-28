@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(130): warning C4101: 'aName': ローカル変数は 1 度も使われていません。
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(129): warning C4101: 'nTime': ローカル変数は 1 度も使われていません。
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(200): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\student\desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\main.cpp(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+  touch_server.vcxproj -> C:\Users\student\Desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\x64\Debug\touch_server.exe
+  touch_server.vcxproj -> C:\Users\student\Desktop\学校\オンライン利用技術＆ゲームエンジン\12_touch_server\x64\Debug\touch_server.pdb (Full PDB)

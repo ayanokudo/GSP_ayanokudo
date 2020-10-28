@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.cpp(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+main.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+main.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+main.cpp(130): warning C4101: 'nTime': ローカル変数は 1 度も使われていません。
+  tcp_client.cpp
+tcp_client.cpp(57): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: 'inet_addr' の宣言を確認してください
+  tcp_listener.cpp
+  コード生成しています。
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  touch_server.vcxproj -> C:\Users\student\Desktop\学校\制作実践演習\second_shooting\server\Release\touch_server.exe
+  touch_server.vcxproj -> C:\Users\student\Desktop\学校\制作実践演習\second_shooting\server\Release\touch_server.pdb (Full PDB)
